@@ -1,0 +1,78 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.top-center{
+    padding-top: 10%;
+}
+
+.left-margin{
+    margin-left: 30%;
+}
+
+.name{
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 50px;
+}
+
+.right-margin{
+    margin-right: 10%;
+}
+
+.description{
+    font-size:18px;
+}
+
+.pad-top-10px{
+    padding-top: 10px;
+}
+
+.div-height{
+    height: 100px;
+}
+
+.img-height{
+    height: 450px;
+    width: auto;
+}
+
+lottie-player {
+    margin: 0 auto;
+}
+
+#map {
+    height: 400px;
+    /* The height is 400 pixels */
+    width: auto;
+    /* The width is the width of the web page */
+    position: relative;
+    display: block;
+  }
+
+.imagen-circular {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    max-width: 200px;
+    height: auto;
+}
+
+.links {
+    display: block;
+    max-width: 100%;
+    color: purple;
+    background-color: rgba(255, 255, 255, 0.7);
+    text-decoration: none;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+    text-align: center;
+  }
+
+  #links_page{
+      background-image: url("../img/Midnight.jpg");
+  }
+
+  #cv_container{
+      background-color: #F5F5F5;
+  }
